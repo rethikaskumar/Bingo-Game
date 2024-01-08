@@ -1,0 +1,172 @@
+# depslib dependency file v1.0
+1655622127 source:d:\projects\codeblocks\gamebingo\main.cpp
+	<iostream>
+	<sstream>
+	<conio.h>
+	<vector>
+	"sockclient.h"
+	"sockserver.h"
+	"util.h"
+	"scrutil.h"
+	<wincon.h>
+
+1653299159 source:d:\projects\codeblocks\gamebingo\sockclient.cpp
+	"sockclient.h"
+	<sstream>
+
+1652863938 d:\projects\codeblocks\gamebingo\sockclient.h
+	"socket.h"
+	<iostream>
+
+1653316882 d:\projects\codeblocks\gamebingo\socket.h
+	<iostream>
+	<winsock2.h>
+
+1653317171 source:d:\projects\codeblocks\gamebingo\socket.cpp
+	"socket.h"
+	<iostream>
+	<sstream>
+
+1655048301 source:d:\projects\codeblocks\gamebingo\sockserver.cpp
+	"sockserver.h"
+	<sstream>
+
+1655048239 d:\projects\codeblocks\gamebingo\sockserver.h
+	"socket.h"
+	<iostream>
+
+1654768152 source:d:\projects\codeblocks\gamebingo\util.cpp
+	<sstream>
+	"util.h"
+
+1654354514 d:\projects\codeblocks\gamebingo\util.h
+	<iostream>
+	<vector>
+
+1655623202 source:d:\projects\codeblocks\gamebingo\scrutil.cpp
+	<iostream>
+	<sstream>
+	<conio.h>
+	<vector>
+	<winsock2.h>
+	"scrutil.h"
+	<wincon.h>
+
+1655623182 d:\projects\codeblocks\gamebingo\scrutil.h
+	<iostream>
+	<vector>
+
+1655697254 source:c:\game\newbingo\gamebingo\scrutil.cpp
+	<iostream>
+	<sstream>
+	<conio.h>
+	<vector>
+	<winsock2.h>
+	"scrutil.h"
+	<wincon.h>
+
+1655697254 c:\game\newbingo\gamebingo\scrutil.h
+	<iostream>
+	<vector>
+
+1655698084 source:c:\game\newbingo\gamebingo\sockclient.cpp
+	"sockclient.h"
+	<sstream>
+
+1655697254 c:\game\newbingo\gamebingo\sockclient.h
+	"socket.h"
+	<iostream>
+
+1655697255 c:\game\newbingo\gamebingo\socket.h
+	<iostream>
+	<winsock2.h>
+
+1655697959 source:c:\game\newbingo\gamebingo\socket.cpp
+	"socket.h"
+	<iostream>
+	<sstream>
+
+1655698212 source:c:\game\newbingo\gamebingo\sockserver.cpp
+	"sockserver.h"
+	<sstream>
+
+1655698185 c:\game\newbingo\gamebingo\sockserver.h
+	"socket.h"
+	<iostream>
+
+1655697255 source:c:\game\newbingo\gamebingo\util.cpp
+	<sstream>
+	"util.h"
+
+1655697255 c:\game\newbingo\gamebingo\util.h
+	<iostream>
+	<vector>
+
+1655697613 source:c:\game\newbingo\gamebingo\main.cpp
+	<iostream>
+	<sstream>
+	<conio.h>
+	<vector>
+	"sockclient.h"
+	"sockserver.h"
+	"util.h"
+	"scrutil.h"
+	<wincon.h>
+
+1655697614 source:c:\oops\newbingo\gamebingo\main.cpp
+	<iostream>
+	<sstream>
+	<conio.h>
+	<vector>
+	"sockclient.h"
+	"sockserver.h"
+	"util.h"
+	"scrutil.h"
+	<wincon.h>
+
+1655697256 c:\oops\newbingo\gamebingo\sockclient.h
+	"socket.h"
+	<iostream>
+
+1655697256 c:\oops\newbingo\gamebingo\socket.h
+	<iostream>
+	<winsock2.h>
+
+1655698186 c:\oops\newbingo\gamebingo\sockserver.h
+	"socket.h"
+	<iostream>
+
+1655697256 c:\oops\newbingo\gamebingo\util.h
+	<iostream>
+	<vector>
+
+1655697256 c:\oops\newbingo\gamebingo\scrutil.h
+	<iostream>
+	<vector>
+
+1655697256 source:c:\oops\newbingo\gamebingo\scrutil.cpp
+	<iostream>
+	<sstream>
+	<conio.h>
+	<vector>
+	<winsock2.h>
+	"scrutil.h"
+	<wincon.h>
+
+1655700777 source:c:\oops\newbingo\gamebingo\sockclient.cpp
+	"sockclient.h"
+	<sstream>
+
+1655697960 source:c:\oops\newbingo\gamebingo\socket.cpp
+	"socket.h"
+	<iostream>
+	<sstream>
+
+1655705948 source:c:\oops\newbingo\gamebingo\sockserver.cpp
+	"sockserver.h"
+	<sstream>
+
+1655697256 source:c:\oops\newbingo\gamebingo\util.cpp
+	<sstream>
+	"util.h"
+

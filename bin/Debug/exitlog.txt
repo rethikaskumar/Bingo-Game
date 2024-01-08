@@ -1,0 +1,6 @@
+User exited game
+
+Client 0 won, Client 1 lost.
+Client 1 won, Client 0 lost.
+Client 0 won, Client 1 lost.
+Client 1 won, Client 0 lost.
